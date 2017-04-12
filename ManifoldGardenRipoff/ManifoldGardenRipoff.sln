@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManifoldGardenRipoff.Plugins", "ManifoldGardenRipoff.Plugins.csproj", "{8B869BD6-74F8-30F8-E117-72CC4EC319C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManifoldGardenRipoff", "ManifoldGardenRipoff.csproj", "{B66D5C55-B769-77D0-D554-19FBA292AA74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManifoldGardenRipoff.Editor", "ManifoldGardenRipoff.Editor.csproj", "{FCBCD5C7-C3BC-2EE6-521B-E72CF5EE948F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B869BD6-74F8-30F8-E117-72CC4EC319C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B869BD6-74F8-30F8-E117-72CC4EC319C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B869BD6-74F8-30F8-E117-72CC4EC319C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B869BD6-74F8-30F8-E117-72CC4EC319C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66D5C55-B769-77D0-D554-19FBA292AA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66D5C55-B769-77D0-D554-19FBA292AA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66D5C55-B769-77D0-D554-19FBA292AA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66D5C55-B769-77D0-D554-19FBA292AA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCBCD5C7-C3BC-2EE6-521B-E72CF5EE948F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBCD5C7-C3BC-2EE6-521B-E72CF5EE948F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBCD5C7-C3BC-2EE6-521B-E72CF5EE948F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBCD5C7-C3BC-2EE6-521B-E72CF5EE948F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
